@@ -1,3 +1,6 @@
+(Nuxt.js - Vue) Code chalenge using a new framework that a never used before.
+
+
 # nuxt_shopping_cart
 
 ## Build Setup
