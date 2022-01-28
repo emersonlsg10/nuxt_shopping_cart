@@ -9,7 +9,7 @@
       sm:items-center sm:pt-0
     "
   >
-    <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
+    <div class="max-w-6xl">
       <div class="relative flex items-top justify-center flex-wrap mt-10">
         <Product
           v-for="product in products"

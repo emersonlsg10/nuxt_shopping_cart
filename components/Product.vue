@@ -112,6 +112,8 @@ export default {
   background-color: #fff;
   width: 100%;
   height: 56px;
+  font-size: 14px;
+  font-weight: 600;
 }
 
 .button:hover {
@@ -119,5 +121,7 @@ export default {
   color: #fff;
   width: 100%;
   height: 56px;
+  font-size: 14px;
+  font-weight: 600;
 }
 </style>
