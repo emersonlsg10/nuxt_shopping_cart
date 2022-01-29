@@ -10,7 +10,7 @@
     "
   >
     <div class="max-w-4xl mx-auto sm:px-6 lg:px-8">
-      <h2 class="text-2xl leading-7 font-semibold">MktPlace</h2>
+      <h2 class="text-2xl leading-7 font-semibold text">MktPlace</h2>
     </div>
   </div>
 </template>
@@ -24,6 +24,10 @@ export default {
 <style>
 .footer {
   height: 60px;
-  background-color: #797979;
+  background-color: #BBBBBB;
+}
+
+.text {
+  color: #646464;
 }
 </style>
